@@ -1,0 +1,22 @@
+.body{
+    background-color: aqua;
+    min-height: 40vh;
+    background-image:url("https://images.freeimages.com/clg/images/48/482734/jump-rope-sport-vector-1_f.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    min-width:100px;
+    height:auto;
+}   
+/* #body{
+    background-color: aqua;
+} */
+.heading{
+    color: rgb(206, 14, 72);
+    font-weight: bold;
+    border-style:double;
+    border-width: 1px;
+    text-align: center;
+    background-color: aqua;
+    height:10vh
+}
